@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "api/convert.js": {
+      "maxDuration": 10,
+      "maxMemory": 512,
+      "limits": {
+        "maxBodySize": 10000000
+      }
+    }
+  }
+}
+
